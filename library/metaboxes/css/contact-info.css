@@ -1,0 +1,11 @@
+/* ---------------------------------------------------------------------- */
+/*	Styles for Open Hour
+/* ---------------------------------------------------------------------- */
+#contact-infos button.remove-comm-line{
+	background: url(../img/icon-remove.png) no-repeat 0 5px;
+	width: 16px;
+	height: 27px;
+	line-height: 27px;
+	text-indent: -9999px;
+	border:none;
+}
